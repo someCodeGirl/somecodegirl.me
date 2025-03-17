@@ -61,3 +61,10 @@
 		font-size: var(--h6);
 	}
 }
+.under-construction {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	padding-top: 10rem;
+}
