@@ -1,0 +1,21 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID:	someCodeGirl <somecodegirl@proton.me>
+Comment: Valid from:	2/7/2025 6:59 AM
+Comment: Valid until:	1/1/2026 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User IDs
+Comment: Fingerprint:	8D6E115DD5162A9C5226CA05A4E3F800F9B74AAA
+
+
+mDMEZ6YfwBYJKwYBBAHaRw8BAQdAp90dZMsM1DWB/JdbN8ae/DXdHljf3yp0ceTN
+axEwC7W0JXNvbWVDb2RlR2lybCA8c29tZWNvZGVnaXJsQHByb3Rvbi5tZT6ImQQT
+FgoAQRYhBI1uEV3VFiqcUibKBaTj+AD5t0qqBQJnph/AAhsDBQkBsLKABQsJCAcC
+AiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEKTj+AD5t0qqwXMBAKzmn6Qk2C1BrzOm
+tAjWsHTNxgj/Z7ORLTCDoOco8WGBAPoCuunr6dBk55Pf2o5GKGXsoq87tDGD2jKV
+slC8dUY3Arg4BGemH8ASCisGAQQBl1UBBQEBB0CHCdpvhFyeReBuqzxAFIkpZaIP
+RkXNk8ET5utQq4yMNAMBCAeIfgQYFgoAJhYhBI1uEV3VFiqcUibKBaTj+AD5t0qq
+BQJnph/AAhsMBQkBsLKAAAoJEKTj+AD5t0qqVuYA/23u/6zaIJ8uIi5ZtznNdIfa
+MTCYiA0BBuK0/z1ZOWYcAQChwb9+/j+5xVwUp0nKcvdZr4OgL/5hN9A3lVHlUs48
+AQ==
+=Khd3
+-----END PGP PUBLIC KEY BLOCK-----

@@ -1,0 +1,6 @@
+Contact: mailto:somecodegirl@proton.me
+Expires: 2025-06-16T07:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/8D6E115DD5162A9C5226CA05A4E3F800F9B74AAA
+Encryption: https://somecodegirl.me/pgp.txt
+Preferred-Languages: en
+Canonical: https://somecodegirl.me/.well-known/security.txt
