@@ -1,0 +1,14 @@
+<urlset>
+<url>
+<loc>https://somecodegirl.me/</loc>
+<lastmod>2025-03-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://somecodegirl.me/latest-canary</loc>
+<lastmod>2025-03-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
