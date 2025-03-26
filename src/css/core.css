@@ -75,3 +75,50 @@
 		color: var(--green);
 	}
 }
+@layer responsive {
+	@media screen and (max-width: 768px) {
+		:root {
+			--base-size: 0.9rem;
+			--scale: 1.15;
+		}
+		body {
+			padding: 0 1rem;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+	}
+
+	@media screen and (max-width: 480px) {
+		:root {
+			--base-size: 0.85rem;
+			--scale: 1.1;
+		}
+		body {
+			padding: 0 0.5rem;
+		}
+		li {
+			padding-top: 1.5rem;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+	}
+
+	@media screen and (min-width: 1200px) {
+		:root {
+			--base-size: 1.1rem;
+			--scale: 1.25;
+		}
+		body {
+			max-width: 1200px;
+			margin: 0 auto;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+	}
+}
